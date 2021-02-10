@@ -1,5 +1,13 @@
 # Cryptor
 
+This package includes 2 versions of encryption.
+
+- Cryptor
+  - Encrypts and Decrypts using a provided key, and random IV
+
+- CryptorFixedIv
+  - Encrypts and Decrypts using a provided key, with fixed (provideable) IV
+
 **Examples**:
 
 ```php
