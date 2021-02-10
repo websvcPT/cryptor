@@ -1,5 +1,7 @@
 <?php
 
+namespace websvc\cryptor;
+
 class CryptorFixedIv
 {
     protected $method = 'AES-256-CBC'; // default cipher method if none supplied

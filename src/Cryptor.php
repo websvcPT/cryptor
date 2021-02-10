@@ -1,5 +1,7 @@
 <?php
 
+namespace websvc\cryptor;
+
 class Cryptor
 {
     protected $method = 'aes-128-ctr'; // default cipher method if none supplied
