@@ -1,7 +1,6 @@
 {
     "name": "websvc/cryptor",
     "type": "library",
-    "version": "1.0.0",
     "require": {},
     "autoload": {
         "psr-4": {
