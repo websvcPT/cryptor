@@ -2,10 +2,12 @@
     "name": "websvc/cryptor",
     "type": "library",
     "license": "MIT",
-    "require": {},
+    "require": {
+        "php": ">=5.6"
+    },
     "autoload": {
         "psr-4": {
-            "Cryptor\\": "src/"
+            "websvc\\Cryptor\\": "src/"
         }
     }
 }
