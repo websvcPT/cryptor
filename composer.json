@@ -2,6 +2,12 @@
     "name": "websvc/cryptor",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+          "name": "WebSvcPT",
+          "email": "websvcPT@github.io"
+        }
+    ],
     "require": {
         "php": ">=5.6"
     },
